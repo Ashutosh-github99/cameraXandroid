@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "394633982286",
+    "firebase_url": "https://sdui-example-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sdui-example",
+    "storage_bucket": "sdui-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394633982286:android:6406f7dc3e832090d3ee1f",
+        "android_client_info": {
+          "package_name": "com.Example.exploringsduicapability"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfJELvEEB3_ReRzhWrSw41sth1zcrODSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
